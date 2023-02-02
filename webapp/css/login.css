@@ -1,0 +1,45 @@
+main #login{
+    border: 2px solid #333;
+    width: 600px;
+    height: 370px;
+    margin: 0 auto;
+}
+
+main h1{
+    text-align: center;
+}
+
+main dl dt{
+    width: 150px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 30px;
+}
+
+main dl dd{
+    padding: 10px 0;
+}
+
+#registerButton{
+    background-color: #ff5656;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+#registerButton:hover{
+    background-color: #ffaaaa;
+    font: bold;
+}
+
+#loginButton{
+    background-color: #5ba2ff;
+    padding: 30px;
+}
+
+#loginButton:hover{
+    background-color: #bcd9ff;
+    font: bold;
+}

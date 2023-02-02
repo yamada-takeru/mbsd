@@ -1,0 +1,30 @@
+main form{
+    padding: 30px 50px;
+}
+
+main form dl dt{
+    width: 150px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: right;
+    margin-right: 50px;
+}
+
+main form dl dd{
+    padding: 10px 0;
+}
+
+main form .left{
+    margin-left: 30px;
+}
+
+#confirmButton{
+    display: inline-block;
+    background-color: #4f4ff3;
+    padding: 15px 30px;
+}
+
+#confirmButton:hover{
+    background-color: #b5b5fa;
+}

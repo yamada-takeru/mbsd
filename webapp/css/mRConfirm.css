@@ -1,0 +1,35 @@
+#confirmArea{
+    width: 500px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+main dl dt{
+    width: 200px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+}
+
+main dl dd{
+    padding: 10px 0;
+}
+
+#fixButton{
+    background-color: rgb(43, 219, 219);
+    padding: 4px 7px;
+}
+
+#fixButton:hover{
+    background-color: rgb(163, 238, 238);
+}
+
+#completeButton{
+    background-color: rgba(170, 22, 22, 0.733);
+    padding: 4px 7px;
+}
+
+#completeButton:hover{
+    background-color: rgba(196, 113, 113, 0.733);
+}

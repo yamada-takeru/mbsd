@@ -1,0 +1,105 @@
+section{
+    margin-bottom: 30px;
+}
+
+main #planImg{
+    width: 550px;
+    height: 450px;
+    float: left;
+}
+
+main img{
+    width: 500px;
+}
+
+main #sideArea1{
+    width: 440px;
+    font-size: 22px;
+    float: right;
+}
+
+main #contentArea dt{
+    width: 230px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 20px;
+}
+
+main #contentArea dd{
+    padding: 10px 0;
+    text-align: left;
+}
+
+main #scheduleArea{
+    text-align: center;
+    clear: both;
+}
+
+main #planDescription{
+    width: auto;
+    height: 120px;
+    border: 2px solid #333;
+}
+
+main #hotelNameArea{
+    width: 350px;
+    height: 450px;
+    float: left;
+}
+
+main #hotelName{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: chocolate;
+}
+
+main #sideArea2{
+    width: 500px;
+    float: right;
+}
+
+main #mapArea{
+    width: 350px;
+    height: 500px;
+    clear: both;
+}
+
+main #conArea{
+    width: 350px;
+    height: 200px;
+}
+
+main #spotArea{
+    width: 350px;
+    height: 200px;
+}
+
+main #buttonArea{
+    text-align: center;
+}
+
+#returnButton{
+    background-color: rgb(197, 106, 41);
+    padding: 4px 7px;
+}
+
+#returnButton:hover{
+    background-color: rgb(218, 172, 140);
+}
+
+#goButton{
+    background-color: rgb(51, 105, 255);
+    padding: 4px 7px;
+}
+
+#goButton:hover{
+    background-color: rgb(173, 195, 255);
+}
+
+.button{
+    margin-right: 10px;
+    font-size: 15px;
+}

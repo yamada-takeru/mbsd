@@ -1,0 +1,125 @@
+header #headerArea{
+    width: 50%;
+    float: right;
+}
+
+header #header_01{
+    margin-bottom: 0;
+    width: 650px;
+    height: 60px;
+    display: inline;
+    text-align: center;
+    float: right;
+}
+
+header #header_02{
+    width: 650px;
+    height: 60px;
+    display: inline;
+    text-align: center;
+    float: right;
+}
+
+header #myPageButton{
+    background-color: rgb(185, 113, 252);
+    padding: 4px;
+}
+
+header #loginButton{
+    background-color: #5ba2ff;
+    padding: 4px;
+}
+
+header #logoutButton{
+    background-color: #375070d7;
+    padding: 4px;
+}
+
+header #registerButton{
+    background-color: #ff5656;
+    padding: 4px;
+}
+
+header #myPageButton:hover{
+    background-color: rgb(221, 185, 255);
+}
+
+header #loginButton:hover{
+    background-color: #bcd9ff;
+}
+
+header #logoutButton:hover{
+    background-color: #acc3e2d7;
+}
+
+header #registerButton:hover{
+    background-color: #ffaaaa;
+}
+
+main h2{
+    margin-left: 20px;
+}
+
+main form{
+    margin-left: 40px;
+}
+
+main form dl dt{
+    width: 150px;
+    padding: 10px 0;
+    padding-left: 70px;
+    float: left;
+    clear: both;
+}
+
+main form dl dd{
+    padding: 10px 0;
+}
+
+main #kensaku{
+    background-color: #a3e293;
+    width: 660px;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    border: 2px solid #333;
+}
+
+main .slideshow{
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin: auto;
+}
+
+main .slideshow img{
+    width: 300px;
+    height: 200px;
+}
+
+main img{
+    width: 200px;
+}
+
+.button{
+    margin-left: 10px;
+}
+
+#searchButton{
+    margin: 0;
+    background-color: #1e9c48;
+    padding: 4px 7px;
+}
+
+#searchButton:hover{
+    background-color: #6cc289;
+}
+
+#mainImgArea{
+    clear: both;
+    text-align: center;
+}
+
+#mainImgArea img{
+    width: 650px;
+}

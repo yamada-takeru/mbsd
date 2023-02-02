@@ -1,0 +1,97 @@
+main h3{ text-align: left;}
+
+main #reSearch{
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+main .select{
+    display: inline;
+    margin-right: 10px;
+}
+
+main #reSearch .buttonArea{
+    text-align: right;
+}
+
+main #searchResult p{
+    text-align: center;
+}
+
+main #printPlan{
+    width: 900px;
+    height: 300px;
+    border: 2px solid #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+main #printPlan #planImg img{
+    width: 350px;
+}
+
+main #printPlan #planImg{
+    margin-right: 15px;
+    height: 100%;
+    float: left;
+    clear: both;
+}
+
+main #overview{
+    width: 800px;
+    text-align: center;
+}
+
+main #overview #discription{
+    height: 130%;
+}
+
+main label{
+    margin: 0;
+}
+
+main label input{
+    display: none;
+}
+
+main label span{
+    color: #333;
+    font-size: 20px;
+    border: 1px solid #333;
+    padding: 5px 20px;
+}
+
+main label input:checked + span{
+    background-color: rgb(249, 253, 194);
+}
+
+main #page{
+    text-align: center;
+}
+
+#searchButton{
+    background-color: #1e9c48;
+    padding: 4px 7px;
+}
+
+#searchButton:hover{
+    background-color: #6cc289;
+}
+
+#confirmButton{
+    background-color: rgb(131, 55, 202);
+    padding: 7px 12px;
+    font-size: 17px;
+}
+
+#confirmButton:hover{
+    background-color: rgba(178, 132, 221, 0.774);
+}
+
+#buttonArea2{
+    text-align: center;
+}
+
+.title{
+    color: rgb(230, 155, 18);
+}

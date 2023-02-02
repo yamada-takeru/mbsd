@@ -1,0 +1,58 @@
+#userContent{
+    width: 500px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+main dl dt{
+    width: 200px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 50px;
+}
+
+main dl dd{
+    padding: 10px 0;
+}
+
+#homeButton{
+    background-color: chocolate;
+    padding: 4px 7px;
+}
+
+#homeButton:hover{
+    background-color: rgb(226, 178, 143);
+}
+
+#reserveButton{
+    background-color: rgb(187, 204, 92);
+    padding: 4px 7px;
+}
+
+#reserveButton:hover{
+    background-color: rgba(216, 226, 158, 0.884);
+}
+
+#updateButton{
+    background-color: rgb(38, 197, 197);
+    padding: 4px 7px;
+}
+
+#updateButton:hover{
+    background-color: rgb(160, 229, 229);
+}
+
+#exitButton{
+    background-color: #375070d7;
+    padding: 4px 7px;
+}
+
+#exitButton:hover{
+    background-color: #acc3e2d7;
+}
+
+.button{
+    margin-right: 10px;
+}

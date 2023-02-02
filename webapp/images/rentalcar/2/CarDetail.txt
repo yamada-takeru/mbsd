@@ -1,0 +1,6 @@
+car_name:フィット
+company_Name:ホンダ
+size:3990x1695x1525(全長x全幅x全高)
+hold_people:5
+rental_price:7000/d
+car_description:小型車ながらSサイズのスーツケースを4つ搭載可能！大容量のラゲッジスペースと大人4人がゆったり座れるスペースを確保し、高速道路も楽々走れるお車です！

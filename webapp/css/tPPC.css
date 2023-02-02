@@ -1,0 +1,63 @@
+a{
+    text-decoration: none;
+}
+
+#main p .left{
+    text-align: left;
+}
+
+main dl dt{
+    width: 200px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 50px;
+}
+
+main dl dd{
+    padding: 10px 0;
+}
+
+#fixButton{
+    background-color: rgb(43, 219, 219);
+    padding: 7px 12px;
+}
+
+#fixButton:hover{
+    background-color: rgb(163, 238, 238);
+}
+
+#completeButton{
+    background-color: rgba(170, 22, 22, 0.733);
+    padding: 7px 12px;
+}
+
+#completeButton:hover{
+    background-color: rgba(196, 113, 113, 0.733);
+}
+
+.button{
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+#printCar{
+    border: 2px solid #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+#printCar dl dt{
+    width: 50px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 30px;
+}
+
+#printCar dl dd{
+    padding: 10px 0;
+}

@@ -1,0 +1,51 @@
+main dl dt{
+    width: 200px;
+    padding: 10px 0;
+    height: 40px;
+    float: left;
+    clear: both;
+    text-align: right;
+    margin-right: 50px;
+}
+
+main dl dd{
+    width: 900px;
+    height: 40px;
+    padding: 10px 0;
+}
+
+.description{
+    height: 100%;
+}
+
+#hotelUrl{
+    color: rgb(9, 136, 66);
+}
+
+#printReservation{
+    border: 2px solid #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+#returnButton{
+    background-color: rgb(197, 106, 41);
+    padding: 4px 7px;
+}
+
+#returnButton:hover{
+    background-color: rgb(218, 172, 140);
+}
+
+#cancelButton{
+    background-color: rgba(57, 177, 214, 0.911);
+    padding: 4px 7px;
+}
+
+#cancelButton:hover{
+    background-color: rgba(160, 209, 224, 0.911)
+}
+
+.button{
+    margin-bottom: 20px;
+}

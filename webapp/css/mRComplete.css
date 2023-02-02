@@ -1,0 +1,13 @@
+main{
+    text-align: center;
+}
+
+#loginButton{
+    background-color: #5ba2ff;
+    padding: 30px;
+}
+
+#loginButton:hover{
+    background-color: #bcd9ff;
+    font: bold;
+}

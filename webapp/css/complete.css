@@ -1,0 +1,21 @@
+main{
+    text-align: center;
+}
+
+main p{
+    font-size: 30px;
+}
+
+#returnButton{
+    background-color: rgb(197, 106, 41);
+    padding: 7px 12px;
+}
+
+#returnButton:hover{
+    background-color: rgb(218, 172, 140);
+}
+
+.button{
+    margin-right: 10px;
+    font-size: 15px;
+}

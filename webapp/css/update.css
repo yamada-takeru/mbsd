@@ -1,0 +1,46 @@
+
+main form{
+    padding: 30px 50px;
+}
+
+main form dl dt{
+    width: 150px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: right;
+    margin-right: 50px;
+}
+
+main form dl dd{
+    padding: 10px 0;
+}
+
+main form .left{
+    margin-left: 30px;
+}
+
+#returnButton{
+    background-color: rgb(228, 173, 100);
+    padding: 7px 12px;
+    font-size: 15px;
+}
+
+#returnButton:hover{
+    background-color: rgba(238, 198, 146, 0.918);
+}
+
+#confirmButton{
+    display: inline-block;
+    background-color: #4f4ff3;
+    padding: 7px 12px;
+    font-size: 15px;
+}
+
+#confirmButton:hover{
+    background-color: #b5b5fa;
+}
+
+.button{
+    margin-right: 10px;
+}

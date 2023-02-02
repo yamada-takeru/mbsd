@@ -1,0 +1,6 @@
+car_name:ソリオ
+company_Name:スズキ
+size:3790x1645x1745(全長x全幅x全高)
+hold_people:5
+rental_price:4000/d
+car_description:狭い道の運転でも楽々！軽自動車ならではのコンパクトなサイズに、大きめのスーツケースを2つ収納できるラゲッジスペースが魅力！ちょっとしたドライブや観光に最適です！

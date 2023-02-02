@@ -1,0 +1,119 @@
+main dl dt{
+    width: 200px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 50px;
+}
+
+main dl dd{
+    padding: 10px 0;
+}
+
+#returnButton{
+    background-color: rgb(197, 106, 41);
+    padding: 7px 12px;
+}
+
+#returnButton:hover{
+    background-color: rgb(218, 172, 140);
+}
+
+#confirmButton{
+    display: inline-block;
+    background-color: #4f4ff3;
+    padding: 7px 12px;
+}
+
+#confirmButton:hover{
+    background-color: #b5b5fa;
+}
+
+.button{
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+#choiceCar label input{
+    display: none;
+}
+
+#choiceCar label span{
+    background-color: rgb(20, 172, 172);
+    color: #eee;
+    font-size: 15px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 5px 20px;
+}
+
+#choiceCar label span:hover{
+    background-color: rgb(140, 233, 233);
+}
+
+#rentCheck{
+    margin:0 0 0 80px;
+}
+
+#rentCarArea{
+    display: none;
+    margin:25px;
+    padding:25px;
+    background:#eee;
+    width:80%;
+    height: 120%;
+}
+
+#rentCarArea img{
+    width: 500px;
+}
+
+#rentCarArea label input{
+    display: none;
+}
+
+#rentCarArea label span{
+    color: #333;
+    font-size: 20px;
+    border: 1px solid #333;
+    padding: 5px 20px;
+}
+
+#rentCarArea label input:checked + span{
+    background-color: chocolate;
+}
+
+#carName{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(253, 109, 6);
+}
+
+#printCar{
+    border: 2px solid #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+#rentCarArea dl dt{
+    width: 70px;
+    padding: 10px 0;
+    float: left;
+    clear: both;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 30px;
+}
+
+#rentCarArea dl dd{
+    padding: 10px 0;
+}
+
+.description{
+    height: 100%;
+}
+
+#leftDes{
+    height: 80px;
+}
